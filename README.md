@@ -13,7 +13,7 @@ The script reads an SVG file and extracts the path data from it. It then convert
 > git clone https://github.com/hoangmanhkhiem/National-Day-2-9.git
 
 2. Change into the project directory:
-> cd draw-luffy-with-svg
+> cd National-Day-2-9
 
 3. Create a virtual environment:
 > py -m venv venv
