@@ -24,6 +24,9 @@ The script reads an SVG file and extracts the path data from it. It then convert
 
 5. Install dependencies:
 > pip install -r requirements.txt
+
+6. Run
+> python draw.py
 ```
 
 ## License
